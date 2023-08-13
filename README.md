@@ -7,4 +7,4 @@
 <!---
 Groothaight420/Groothaight420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->teach me how to program and qll that stuff
+--->teach me how to program and all that stuff
